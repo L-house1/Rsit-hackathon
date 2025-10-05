@@ -1,0 +1,5 @@
+ID : dweck
+PW : s9Xeh9)t@5C?v&2
+
+Rsti : <REDACTED>
+export ELASTICSEARCH_URL="https://my-observability-project-b6bb54.es.us-central1.gcp.elastic.cloud"

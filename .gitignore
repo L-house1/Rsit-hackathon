@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+# Notebooks / Logs
+.ipynb_checkpoints/
+*.log
+# Secrets / Env
+.env
+.env.*
+.secrets/
+# Demo data outputs (keep sample only)
+docs/data/*.json
+!docs/data/sample.json
+# User-specific directories
+DOCS/
+
+# Large data files - not suitable for Git
+rsit-hackathon/hackathon_data/
